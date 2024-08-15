@@ -1,0 +1,12 @@
+[
+  {
+    "name": "First Chapter",
+    "description": "Chapter that will tell you the great story",
+    "path": "01.chapter"
+  },
+  {
+    "name": "Second Chapter",
+    "description": null,
+    "path": "02.chapter"
+  }
+]
