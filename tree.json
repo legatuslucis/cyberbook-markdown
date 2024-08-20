@@ -1,12 +1,20 @@
-[
-  {
-    "name": "First Chapter",
-    "description": "Chapter that will tell you the great story",
-    "path": "01.chapter"
+{
+  "home": {
+    "name": "Home Page",
+    "code": "home",
+    "path": "home/doc.md"
   },
-  {
-    "name": "Second Chapter",
-    "description": null,
-    "path": "02.chapter"
-  }
-]
+  "chapters": [
+    {
+      "name": "First Chapter",
+      "code": "first-chapter",
+      "path": "chapter.01/doc.md"
+    },
+    {
+      "name": "Second Chapter",
+      "code": "second-chapter",
+      "path": "chapter.02/doc.md"
+    }
+  ]
+}
+
